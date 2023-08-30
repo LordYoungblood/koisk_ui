@@ -1,0 +1,12 @@
+{
+  "name": "searchgate-kiosk",
+  "version": "1.0.0",
+  "description": "Search Gate Kiosk",
+  "scripts": {
+    "start": "cd ui && npm install && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
